@@ -1,0 +1,65 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.9
+Date: 2025-02-07
+  Bugfixes:
+    - Increased stability by adding an additional check for invalid entities. Credit to returntomonkey for debugging and this fix.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.8
+Date: 2025-01-21
+  Bugfixes:
+    - Added missing quality parameter to max wire distance function. Credit to durandal42 for debugging and this fix.
+    - Cleared rendering on settings change.
+    - Fixed crash caused by invalid entity.
+  Changes:
+    - Increased default search radius to 42.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.7
+Date: 2025-01-06
+  Bugfixes:
+    - Fixed debug mode being enabled by default.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.6
+Date: 2025-01-04
+  Changes:
+    - Additions to debug mode.
+  Bugfixes:
+    - Removed unnecessary adding of existing connections.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.5
+Date: 2024-12-31
+  Major Features:
+    - Created tie-breaker algorithm to make MST generation deterministic (which looks cleaner).
+  Changes:
+    - Changed default max poles in radius to 30 (was 10). 
+---------------------------------------------------------------------------------------------------
+Version: 1.0.4
+Date: 2024-12-30
+  Major Features:
+    - Various performance optimizations.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.3
+Date: 2024-12-30
+  Bugfixes:
+    - Investigated potential complex memory leak (ongoing).
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2024-12-30
+  Bugfixes:
+    - Delayed MST regeneration by one tick to overwrite factorios default wire generation when removing poles.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2024-12-30
+  Bugfixes:
+    - Fixed some edge cases with the removal of poles where the MST would be generated wrong.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2024-12-30
+  Major Features:
+    - Fixed UPS issues where the entire network was generated in one tick.
+    - Added a new scheduling system to generate the network over multiple ticks.
+    - Added settings for OPS, Radius, and Full Network generation.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 2024-12-29
+  Major Features:
+    - Initial release.
